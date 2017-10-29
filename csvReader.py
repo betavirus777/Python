@@ -1,5 +1,3 @@
-
-
 import csv
 
 
@@ -29,7 +27,7 @@ with open('data.csv') as csvfile:
                 
         print(data)
         print(colors)
-        print(categorys)
+        
 
         try:
                 
