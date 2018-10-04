@@ -45,7 +45,7 @@ with open('data.csv') as csvfile:
         except Exception as e:
                 print(e)
 
-        print('contuining')
+        print('Contuining')
         
 
 	
